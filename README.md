@@ -42,5 +42,20 @@
 Сообщение должно содержать ФИО, телефон, сумму и ID заказа.
 
 
+P.S.:
+Дашборд с выгрузкой исходных данных:
+
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/c3a4d909-9002-4347-a6c4-81d3789667cd" />
+
+Дашборд с выгрузкой дополнительных данных, когда тестировала ТелеграмБота на реакцию при добавлении новых заказов суммой более 50 000 в CRM:
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/9c5e60a2-0cb3-4839-9a6b-ade0913fd217" />
+
+ССылка на дашборд:
+
+Скрины с телеграмбота:
+<img width="972" height="942" alt="image" src="https://github.com/user-attachments/assets/9b767009-0953-426d-856e-329cf23685e8" />
+<img width="752" height="307" alt="image" src="https://github.com/user-attachments/assets/f6fac0d7-3839-4349-bf37-69da903169fb" />
+
+
+
 
