@@ -51,7 +51,7 @@ P.S.:
 <img width="975" height="611" alt="image" src="https://github.com/user-attachments/assets/cd4e39cc-ae8e-4d0e-9108-f1fe508a73fc" />
 
 
-ССылка на дашборд:
+ССылка на дашборд: https://orders-dashboard-wt5e.vercel.app/
 
 Скрины с телеграмбота:
 <img width="972" height="942" alt="image" src="https://github.com/user-attachments/assets/9b767009-0953-426d-856e-329cf23685e8" />
