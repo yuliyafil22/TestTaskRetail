@@ -48,7 +48,8 @@ P.S.:
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/c3a4d909-9002-4347-a6c4-81d3789667cd" />
 
 Дашборд с выгрузкой дополнительных данных, когда тестировала ТелеграмБота на реакцию при добавлении новых заказов суммой более 50 000 в CRM:
-<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/9c5e60a2-0cb3-4839-9a6b-ade0913fd217" />
+<img width="975" height="611" alt="image" src="https://github.com/user-attachments/assets/cd4e39cc-ae8e-4d0e-9108-f1fe508a73fc" />
+
 
 ССылка на дашборд:
 
